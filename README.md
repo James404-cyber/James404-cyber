@@ -2,7 +2,6 @@
 <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=muneebwanee&theme=monokai"></a>
 </p> 
  
-
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/muneebwanee/count.svg" />
@@ -20,3 +19,4 @@
 <a href="https://github.com/James404-cyber/Number"><img title="NUMBER" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=Number&theme=vision-friendly-dark"></a>
 <a href="https://github.com/James404-cyber/Email"><img title="EMAILCRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=Email&theme=tokyonight"></a>
 </p>
+
