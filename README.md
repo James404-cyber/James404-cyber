@@ -2,7 +2,7 @@
 <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=muneebwanee&theme=monokai"></a>
 </p>  
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/muneebwanee/count.svg" />
+ <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
 </p>
 
 ![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/Screenshot_20210201-204155_Termux.jpg)
