@@ -3,8 +3,9 @@
 </p> 
  
 
-𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/muneebwanee/count.svg" />
 </p>
 
 ![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/Screenshot_20210201-204155_Termux.jpg)
