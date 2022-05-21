@@ -1,12 +1,16 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a>
 </p>  
-## 🚶 Visit Me
-[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG64Lu7JYZO8q-4SQ8CTEjQ)
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
 </p>
+
+# MulqiGaming64
+Hi There 👋, I'm MulqiGaming64, You Can Call Me Qi
+<br>
+## 🚶 Visit Me
+[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG64Lu7JYZO8q-4SQ8CTEjQ)
 
 ![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/Screenshot_20210201-204155_Termux.jpg)
 
