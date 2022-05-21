@@ -7,7 +7,7 @@
 </p>
 
 ## 🚶 Visit Me
-[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG64Lu7JYZO8q-4SQ8CTEjQ)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA)
 
 ![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/Screenshot_20210201-204155_Termux.jpg)
 
