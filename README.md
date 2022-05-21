@@ -6,9 +6,6 @@
  <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
 </p>
 
-# MulqiGaming64
-Hi There 👋, I'm MulqiGaming64, You Can Call Me Qi
-<br>
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG64Lu7JYZO8q-4SQ8CTEjQ)
 
