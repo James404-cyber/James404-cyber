@@ -1,6 +1,10 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a>
 </p>  
+<br>
+## 👇 Visit Me
+[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA)
+
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
