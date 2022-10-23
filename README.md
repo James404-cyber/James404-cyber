@@ -1,7 +1,5 @@
 ![](https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a>
-</p>  
+
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
