@@ -5,7 +5,7 @@
  <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+FRIENDS;HOW+ARE+YOU+DID+YOU+FOLLOW+MY+GITHUB+.+.+.+?;FOLLOW+MY+GITHUB+YA+â­)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+FRIENDS;HOW+ARE+YOU+,DID+YOU+FOLLOW+MY+GITHUB+.+.+.+?;FOLLOW+MY+GITHUB)](https://git.io/typing-svg)
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA)
 
