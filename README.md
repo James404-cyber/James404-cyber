@@ -58,11 +58,4 @@
 
 ---
 
-## 👁 Visitors
-<p align="center">
-  <img src="https://api.countapi.xyz/hit/James404-cyber/jamesvisits" alt="Visitor Count"/>
-</p>
-
----
-
 <p align="center">Made with ❤️ by James</p>
