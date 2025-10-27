@@ -9,7 +9,9 @@
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA)
 
-<img src="https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/James404.gif" alt="GIF">
+<video autoplay loop muted width="400">
+  <source src="https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/James404.mp4" type="video/mp4">
+</video>
 
 ![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/James404.gif)
 
