@@ -1,37 +1,68 @@
-![](https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-
-<p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+FRIENDS;HOW+ARE+YOU+,DID+YOU+FOLLOW+MY+GITHUB+.+.+.+?;FOLLOW+MY+GITHUB)](https://git.io/typing-svg)
-## 🚶 Visit Me
-[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA)
-
-<video autoplay loop muted width="400">
-  <source src="https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/James404.mp4" type="video/mp4">
-</video>
-
-![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/James404.gif)
-
-![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=James404-cyber&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=James404-cyber&layout=compact&theme=chartreuse-dark" />
-<p align="center"> 
-
-#Languages and Tools
-</p>
-
-</p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=James404-cyber&repo=HACKPRO&theme=chartreuse-dark" />
+# README.md
 <p align="center">
-<a href="https://github.com/James404-cyber/PROHACK"><img title="PROHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=PROHACK&theme=vision-friendly-dark"></a>
-<a href="https://github.com/James404-cyber/Number"><img title="NUMBER" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=Number&theme=vision-friendly-dark"></a>
-<a href="https://github.com/James404-cyber/PROHACK-FILE"><img title="PROHACK-FILE" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=PROHACK-FILE&theme=tokyonight"></a>
+  <img src="https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/James404.gif" alt="James404 GIF" width="300"/>
 </p>
 
+<h1 align="center">Hi, I'm James 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=HELLO+FRIENDS;WELCOME+TO+MY+GITHUB;FOLLOW+ME+FOR+COOL+PROJECTS&center=true&width=500&height=50" alt="Typing SVG">
+  </a>
+</p>
 
+---
 
+## 🚀 About Me
+- 🔭 Working on interesting projects  
+- 🌱 Learning new tech every day  
+- 💬 Ask me about Python, AI, and WebDev  
+- 📫 Reach me at: [jamesmr283@gmail.com](mailto:jamesmr283@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=James404-cyber&show_icons=true&include_all_commits=true&theme=chartreuse-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=James404-cyber&layout=compact&theme=chartreuse-dark" />
+</p>
+
+---
+
+## 🛠 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+</p>
+
+---
+
+## 📺 Connect with Me
+<p align="center">
+  <a href="https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA">
+    <img src="https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://wa.me/96598064347">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1A4ScS8ofq/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@james404____?_t=ZS-90u35Z7mfwI&_r=1">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👁 Visitors
+<p align="center">
+  <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" alt="visitor count"/>
+</p>
+
+---
+
+<p align="center">Made with ❤️ by James</p>
