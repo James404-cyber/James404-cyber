@@ -9,7 +9,7 @@
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCgIVecO1e-lFuP_icxEL2mA)
 
-![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/ames404 - cyber_20251027_174125_0000.gif)
+![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/James404.gif)
 
 ![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
