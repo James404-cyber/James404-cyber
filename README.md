@@ -60,7 +60,7 @@
 
 ## 👁 Visitors
 <p align="center">
-  <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" alt="visitor count"/>
+  <img src="https://api.countapi.xyz/hit/James404-cyber/jamesvisits" alt="Visitor Count"/>
 </p>
 
 ---
