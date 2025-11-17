@@ -4,99 +4,70 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Contact Admin | James404</title>
+
 <style>
   body {
-    font-family: 'Poppins', sans-serif;
+    font-family: Arial, sans-serif;
     background: #0d1117;
     color: white;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     padding: 20px;
-  }
-
-  h1 {
-    color: #00ff7f;
+    text-align: center;
   }
 
   .box {
     background: #161b22;
     padding: 20px;
+    margin: 20px auto;
     border-radius: 12px;
-    box-shadow: 0 0 10px #00ff7f33;
     width: 90%;
     max-width: 400px;
-    margin: 15px 0;
   }
 
-  textarea {
+  textarea, input {
     width: 100%;
-    height: 120px;
-    border-radius: 8px;
     padding: 10px;
+    border-radius: 8px;
     border: none;
-    resize: none;
-    font-size: 15px;
+    margin-top: 10px;
   }
 
   button {
     margin-top: 10px;
     width: 100%;
+    padding: 10px;
     background: #00ff7f;
     border: none;
-    color: black;
     font-weight: bold;
     border-radius: 8px;
-    padding: 10px;
     cursor: pointer;
-    transition: 0.3s;
   }
 
-  button:hover {
-    background: #00cc66;
-  }
-
-  footer {
-    margin-top: 20px;
-    color: #aaa;
-    font-size: 14px;
+  #success {
+    color: #00ff7f;
+    margin-top: 15px;
+    display: none;
   }
 </style>
 </head>
 <body>
 
 <h1>📬 Contact Admin</h1>
-<p>Send a message via Mail or WhatsApp</p>
 
 <div class="box">
-  <h3>Mail Admin</h3>
-  <textarea id="mailMsg" placeholder="Write your message..."></textarea>
-  <button onclick="sendMail()">Send Mail</button>
+  <form id="msgForm" action="https://formsubmit.co/jamesmr283@gmail.com" method="POST">
+
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_subject" value="New Message From Contact Page">
+    <input type="hidden" name="_template" value="box">
+    <input type="hidden" name="_next" value="https://james404-cyber.github.io/James404-cyber/success.html">
+
+    <textarea name="message" placeholder="Type your message..." required></textarea>
+
+    <button type="submit">Send Message</button>
+  </form>
 </div>
 
-<div class="box">
-  <h3>WhatsApp Admin</h3>
-  <textarea id="waMsg" placeholder="Type your WhatsApp message..."></textarea>
-  <button onclick="sendWA()">Send WhatsApp</button>
-</div>
-
-<footer>Made with ❤️ by James404</footer>
-
-<script>
-function sendMail() {
-  const msg = document.getElementById("mailMsg").value.trim();
-  const email = "jamesmr283@gmail.com";
-  if (!msg) { alert("Please write a message first."); return; }
-  window.location.href = `mailto:${email}?subject=Message from Website&body=${encodeURIComponent(msg)}`;
-}
-
-function sendWA() {
-  const msg = document.getElementById("waMsg").value.trim();
-  const phone = "96598064347";
-  if (!msg) { alert("Please type a message first."); return; }
-  window.open(`https://wa.me/${phone}?text=${encodeURIComponent(msg)}`, "_blank");
-}
-</script>
+<p id="success">✔ Message sent successfully!</p>
 
 </body>
 </html>
