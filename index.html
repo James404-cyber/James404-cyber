@@ -23,11 +23,13 @@
     max-width: 400px;
   }
 
-  textarea, input {
+  textarea {
     width: 100%;
-    padding: 10px;
+    height: 120px;
     border-radius: 8px;
+    padding: 10px;
     border: none;
+    resize: none;
     margin-top: 10px;
   }
 
@@ -41,12 +43,6 @@
     border-radius: 8px;
     cursor: pointer;
   }
-
-  #success {
-    color: #00ff7f;
-    margin-top: 15px;
-    display: none;
-  }
 </style>
 </head>
 <body>
@@ -54,20 +50,24 @@
 <h1>📬 Contact Admin</h1>
 
 <div class="box">
-  <form id="msgForm" action="https://formsubmit.co/jamesmr283@gmail.com" method="POST">
+  <form id="msgForm" action="https://formsubmit.co/your-email-here" method="POST">
+
+    <!-- Replace with your email -->
+    <input type="hidden" name="email" value="jamesmr283@gmail.com">
 
     <input type="hidden" name="_captcha" value="false">
     <input type="hidden" name="_subject" value="New Message From Contact Page">
     <input type="hidden" name="_template" value="box">
-    <input type="hidden" name="_next" value="https://james404-cyber.github.io/James404-cyber/success.html">
+
+    <input type="hidden" 
+    name="_next" 
+    value="https://james404-cyber.github.io/James404-cyber/success.html">
 
     <textarea name="message" placeholder="Type your message..." required></textarea>
 
     <button type="submit">Send Message</button>
   </form>
 </div>
-
-<p id="success">✔ Message sent successfully!</p>
 
 </body>
 </html>
