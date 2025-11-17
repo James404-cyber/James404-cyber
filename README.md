@@ -1,9 +1,9 @@
-# README.md
 <p align="center">
   <img src="https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/James404.gif" alt="James404 GIF" width="300"/>
 </p>
 
 <h1 align="center">Hi, I'm James 👋</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=HELLO+FRIENDS;WELCOME+TO+MY+GITHUB;FOLLOW+ME+FOR+COOL+PROJECTS&center=true&width=500&height=50" alt="Typing SVG">
@@ -53,6 +53,35 @@
   </a>
   <a href="https://www.tiktok.com/@james404____?_t=ZS-90u35Z7mfwI&_r=1">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📨 Contact Admin (Mail + WhatsApp)
+
+> ⚠️ **GitHub README supports HTML, but NOT JavaScript.**  
+> So your full working message box cannot function directly on GitHub.  
+>  
+> But GitHub *does* support clickable mail + WhatsApp message boxes.
+
+### ✅ **Mail Admin**
+<textarea placeholder="Write your message here..." style="width:100%;height:120px;"></textarea>
+
+<p>
+  <a href="mailto:jamesmr283@gmail.com?subject=New Message From GitHub" style="background:#00ff7f;padding:10px 20px;border-radius:8px;color:black;text-decoration:none;">
+    Send Mail
+  </a>
+</p>
+
+---
+
+### ✅ **WhatsApp Message**
+<textarea placeholder="Type your WhatsApp message..." style="width:100%;height:120px;"></textarea>
+
+<p>
+  <a href="https://wa.me/96598064347" target="_blank" style="background:#25D366;padding:10px 20px;border-radius:8px;color:white;text-decoration:none;">
+    Send WhatsApp
   </a>
 </p>
 
